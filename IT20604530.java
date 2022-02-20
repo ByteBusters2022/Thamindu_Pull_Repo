@@ -1,5 +1,7 @@
 //charith 
 //Ravini
+//Dilshi
+//it20619558
 import java.util.*;//Import java utilization package
 import java.util.Random;// Import Random util to generate random values
 
