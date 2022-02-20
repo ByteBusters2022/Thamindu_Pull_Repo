@@ -1,8 +1,6 @@
 /*
-ID :- IT20604530
-Name :- Thamindu Chankana Menuwara Gamage
-Y2.S1 01.2
-Malabe
+Thamindu Chankana Menuwara Gamage
+IT20604530
 
 Wihanga kawya
 IT20604608
