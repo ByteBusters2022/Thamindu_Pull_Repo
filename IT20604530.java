@@ -1,3 +1,10 @@
+/*
+ID :- IT20604530
+Name :- Thamindu Chankana Menuwara Gamage
+Y2.S1 01.2
+Malabe
+*/
+
 import java.util.*;//Import java utilization package
 import java.util.Random;// Import Random util to generate random values
 
